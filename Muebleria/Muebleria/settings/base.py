@@ -43,6 +43,9 @@ INSTALLED_APPS = [
     'apps.carrito',
     'apps.pedido',
     'apps.producto',
+    'apps.interiores',
+    'apps.muebles_personalizados',
+    'multiupload'
 ]
 
 MIDDLEWARE = [
